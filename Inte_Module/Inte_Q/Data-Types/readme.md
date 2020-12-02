@@ -33,3 +33,11 @@ This primitive data types can further be classified into -
 
 ```
 
+#### String : 
+```
+It represents a series of characters and is written with quotes. A string can be represented using a single or a double quote.
+
+Example :
+ var str = "Vivek Singh Bisht"; //using double quotes
+ var str2 = 'John Doe'; //using single quotes
+```

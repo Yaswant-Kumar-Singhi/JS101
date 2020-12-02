@@ -16,8 +16,10 @@
 All primitives are immutable, i.e., they cannot be altered. It is important not to confuse a primitive itself with a variable assigned a primitive value.
 
 </p>
+
+
 ```
-> This primitive data types can further be classified into - 
+This primitive data types can further be classified into - 
 
     ├── Primitive Data Types
       ├── String
@@ -29,13 +31,3 @@ All primitives are immutable, i.e., they cannot be altered. It is important not 
       └── Number
 
 ```
-
-├── Data Types
-│   ├── css
-|     ├── footer.css
-│     ├── header.css
-|     ├── layout.css
-|     ├── profile.css
-|     ├── signin.css
-|     └── sign_up.css
-│   ├── js

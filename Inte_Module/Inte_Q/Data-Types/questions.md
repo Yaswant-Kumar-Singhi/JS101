@@ -4,7 +4,6 @@
 
 ```
     value !== value
-    
 ```
 
 2. What is the output of this snippet of code? How can you avoid the problem in it?

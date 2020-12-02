@@ -113,4 +113,6 @@ var obj1 = {
    }
 }
 ```
+
+* Note- It is important to remember that any data type that is not primitive data type, is of Object type in javascript.
  

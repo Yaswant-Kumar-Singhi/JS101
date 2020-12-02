@@ -44,10 +44,11 @@ Example :
 
 #### BigInt : 
 ```
-This data type is used to store numbers which are above the limitation of the Number data type. It can store large integers and is represented by adding “n” to an integer literal.
+This data type is used to store numbers which are above the limitation of the Number data type. 
+It can store large integers and is represented by adding “n” to an integer literal.
 
 Example :
-var bigInteger =  234567890123456789012345678901234567890;
+var bigInteger =  781034890123410789987345674101234567890;
 ```
 
 #### Undefined : 

@@ -94,4 +94,23 @@ var x = 3; //without decimal
 var y = 3.6; //with decimal
 ```
 
+### Non-primitive types
 
+Primitive data types can store only a single value. To store multiple and complex values, non-primitive data types are used.
+
+#### Object : 
+```
+Used to store collection of data.
+
+Example:
+// Collection of data in key-value pairs
+
+var obj1 = {
+   x:  43,
+   y:  "Hello world!",
+   z: function(){
+      return this.x;
+   }
+}
+```
+ 
